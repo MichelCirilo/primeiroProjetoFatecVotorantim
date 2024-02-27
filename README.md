@@ -1,5 +1,5 @@
-# Meu primeiro Projeto Incrível 🚀
-Bem vindo ao meu projeto incrível em Ciência de Dados
+# Meu primeiro Projeto 🚀
+Bem vindo ao meu projeto em Ciência de Dados
 
 ## Visão Geral 🖥
 Este projeto foi utilizado para treinar os comandos básicos no Linux
@@ -10,3 +10,4 @@ Projeto desenvolvido nas aulas da
 ## Créditos 👨
 Autor: Michel Cirilo de Oliveira
 Contato: michel.oliveira25@fatec.sp.gov.br
+Mestre: Ricardo Leme
